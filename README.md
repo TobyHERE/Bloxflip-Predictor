@@ -1,7 +1,9 @@
 
-# Username under here
+#📝Features and Usage
+Can calculate the exactly decimal number esc. 5.82x
 
-{
-	Bloxflip_predictor.py
-	roblox_username => 'e'
-}
+#⚙️Install all the stuff
+It is very simple to install, make sure you get all of the profit you need
+
+#🔒Obfuscated Code
+I do not want anyone taking credit or stealing my code so I obfuscated it and copy righted it.
